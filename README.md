@@ -1,2 +1,2 @@
 # LeafBrowser
-Hello This is Richard Lobo's Property.
+Hippity Hoppity Open-Source means it's no one's property.
